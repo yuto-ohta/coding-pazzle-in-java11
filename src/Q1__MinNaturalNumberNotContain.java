@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 2020/11/14
  */
 
-class MinNaturalNumberNotContain {
+class Q1__MinNaturalNumberNotContain {
     public static void main(String[] args) {
         int[] sample = {23, 45, 5, 35, 1, 2, 4, 5};
         System.out.println(solution(sample));
