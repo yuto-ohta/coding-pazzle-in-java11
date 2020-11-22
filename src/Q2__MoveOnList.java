@@ -27,13 +27,10 @@ public class Q2__MoveOnList {
     private Integer moveOnList(Integer index) {
         // -1が出たら一番最後の要素とする
         Integer value = listA.get(index) == -1 ? listA.size() -1 : listA.get(index);
-        System.out.println("index="+index);
-        System.out.println("value="+value);
         if (alreadyShownIndex.contains(value)) {
             return -1;
         }
         alreadyShownIndex.add(value);
-        System.out.println(alreadyShownIndex);
         if (alreadyShownIndex.size() == listA.size()) {
             return -2;
         }
