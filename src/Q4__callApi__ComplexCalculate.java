@@ -15,7 +15,7 @@ try-with-resourceに切り替えて、あとJSONを扱うようにしたい
 2020/11/15 ※問題はぼかす
  */
 
-public class Q4__callApi__ComplexCalculate {
+public class Q4__CallApi__ComplexCalculate {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String seed = sc.next();
