@@ -1,5 +1,7 @@
 # coding-pazzle-in-java11
 
-* ネットに落ちてるコーディング問題をやったら上げる
-* ~~早いうちにgolangのリポジトリつくってそっちに移行する予定~~
-  * →　つくったのでこちらは更新しない予定:  https://github.com/yuto-ohta/coding-pazzle-in-go
+## ■What is
+
+* （更新停止中）
+* コーディング問題を解く
+  * https://yukicoder.me/
